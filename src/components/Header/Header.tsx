@@ -23,7 +23,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2">
           <Briefcase className="h-8 w-8 text-blue-600" />
-          <span className="text-xl font-bold text-blue-600">РаботаПоиск</span>
+          <span className="text-xl font-bold text-blue-600">Работа Плюс</span>
         </Link>
 
         {/* Desktop Navigation */}

@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Briefcase className="h-8 w-8 text-blue-400" />
-              <span className="text-xl font-bold text-white">РаботаПоиск</span>
+              <span className="text-xl font-bold text-white">Работа Плюс</span>
             </div>
             <p className="text-gray-300 mb-4">
               Найдите работу своей мечты с помощью нашего сервиса поиска вакансий.
@@ -106,7 +106,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-6 text-center text-gray-300">
-          <p>&copy; {new Date().getFullYear()} РаботаПоиск. Все права защищены.</p>
+          <p>&copy; {new Date().getFullYear()} Работа Плюс</p>
         </div>
       </div>
     </footer>
